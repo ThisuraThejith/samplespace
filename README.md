@@ -1,0 +1,2 @@
+# samplespace
+For sample projects
