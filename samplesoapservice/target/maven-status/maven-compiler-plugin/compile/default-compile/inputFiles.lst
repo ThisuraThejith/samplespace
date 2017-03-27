@@ -1,0 +1,10 @@
+/home/chamarap/Desktop/cake/samplesoapservice/src/main/java/org/sysco/soap/Application.java
+/home/chamarap/Desktop/cake/samplesoapservice/src/main/java/org/sysco/soap/MealRepository.java
+/home/chamarap/Desktop/cake/samplesoapservice/src/main/java/org/sysco/soap/WebServiceConfig.java
+/home/chamarap/Desktop/cake/samplesoapservice/src/main/java/org/sysco/soap/MealEndpoint.java
+/home/chamarap/Desktop/cake/samplesoapservice/src/main/java/io/spring/guides/gs_producing_web_service/package-info.java
+/home/chamarap/Desktop/cake/samplesoapservice/src/main/java/io/spring/guides/gs_producing_web_service/GetMealRequest.java
+/home/chamarap/Desktop/cake/samplesoapservice/src/main/java/io/spring/guides/gs_producing_web_service/Meal.java
+/home/chamarap/Desktop/cake/samplesoapservice/src/main/java/io/spring/guides/gs_producing_web_service/Currency.java
+/home/chamarap/Desktop/cake/samplesoapservice/src/main/java/io/spring/guides/gs_producing_web_service/GetMealResponse.java
+/home/chamarap/Desktop/cake/samplesoapservice/src/main/java/io/spring/guides/gs_producing_web_service/ObjectFactory.java

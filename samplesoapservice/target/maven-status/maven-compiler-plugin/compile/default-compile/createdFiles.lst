@@ -1,0 +1,10 @@
+org/sysco/soap/MealEndpoint.class
+org/sysco/soap/WebServiceConfig.class
+io/spring/guides/gs_producing_web_service/package-info.class
+io/spring/guides/gs_producing_web_service/Meal.class
+org/sysco/soap/MealRepository.class
+io/spring/guides/gs_producing_web_service/GetMealResponse.class
+io/spring/guides/gs_producing_web_service/ObjectFactory.class
+io/spring/guides/gs_producing_web_service/GetMealRequest.class
+org/sysco/soap/Application.class
+io/spring/guides/gs_producing_web_service/Currency.class
